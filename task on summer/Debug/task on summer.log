@@ -1,4 +1,3 @@
 ﻿  task on summer.cpp
-c:\users\maks_\documents\visual studio 2015\projects\task on summer\task on summer\task on summer.cpp(46): warning C4114: множественное использование одного и того же квалификатора типа
-  task on summer.vcxproj -> c:\users\maks_\documents\visual studio 2015\Projects\task on summer\Debug\task on summer.exe
-  task on summer.vcxproj -> c:\users\maks_\documents\visual studio 2015\Projects\task on summer\Debug\task on summer.pdb (Full PDB)
+  task on summer.vcxproj -> C:\Users\Maks_\documents\visual studio 2015\Projects\task on summer\Debug\task on summer.exe
+  task on summer.vcxproj -> C:\Users\Maks_\documents\visual studio 2015\Projects\task on summer\Debug\task on summer.pdb (Full PDB)
